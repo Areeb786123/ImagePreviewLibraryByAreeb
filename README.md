@@ -9,20 +9,22 @@
 
 <h2>Adding Paramters</h2>
 
-<p>
-    allprojects {
+<h2>Adding dependencies</h2>
+
+<p>allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
 		}
 	}</p>
- <p>
-     dependencies {
+ <br>
+ <p>dependencies {
 	        implementation 'com.github.Areeb786123:ImagePreviewLibraryByAreeb:Tag'
 	}
  </p>
-<p>
-    override fun onCreate(savedInstanceState: Bundle?) {
+
+ <br>
+<p>override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         _binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(_binding!!.root)
