@@ -19,6 +19,5 @@ class MainActivity : AppCompatActivity() {
         _binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(_binding!!.root)
         ImagePreview.setImageView(binding.imageName, imageUrl, binding.progress)
-//        Glide.with(this).load(imageUrl).into(binding.imageName)
     }
 }
