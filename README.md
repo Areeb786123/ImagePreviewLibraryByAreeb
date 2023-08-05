@@ -1,7 +1,12 @@
 # ImagePreviewLibraryByAreeb
 
+![image](https://github.com/Areeb786123/ImagePreviewLibraryByAreeb/assets/56149022/b635511c-e9e5-446e-b4e4-bfedca2d867b)
 
+<h1>How to use it </h1>
 
+<h2>Adding Paramters</h2>
+<p></p>ImagePreview.setImageView(binding.imageName, imageUrl, binding.progress)</p>
+<h2>Xml ui </h2>
 <p><?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -40,3 +45,4 @@
 
 
 </androidx.constraintlayout.widget.ConstraintLayout></p>
+
