@@ -12,14 +12,20 @@
 <h2>Adding dependencies</h2>
 
 <p>allprojects {
+	<br>
 		repositories {
+	<br>
 			...
+	<br>
 			maven { url 'https://jitpack.io' }
+	<br>
 		}
 	}</p>
  <br>
  <p>dependencies {
+	 <br>
 	        implementation 'com.github.Areeb786123:ImagePreviewLibraryByAreeb:Tag'
+	 <br>
 	}
  </p>
 
