@@ -5,7 +5,13 @@
 <h1>How to use it </h1>
 
 <h2>Adding Paramters</h2>
-<p></p>ImagePreview.setImageView(binding.imageName, imageUrl, binding.progress)</p>
+<p>
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        _binding = ActivityMainBinding.inflate(layoutInflater)
+        setContentView(_binding!!.root)
+        ImagePreview.setImageView(binding.imageName, imageUrl, binding.progress)
+    })</p>
 <h2>Xml ui </h2>
 <p><?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
