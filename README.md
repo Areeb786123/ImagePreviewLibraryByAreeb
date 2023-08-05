@@ -6,7 +6,21 @@
 
 <h1>How to use it </h1>
 
+
 <h2>Adding Paramters</h2>
+
+<p>
+    allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}</p>
+ <p>
+     dependencies {
+	        implementation 'com.github.Areeb786123:ImagePreviewLibraryByAreeb:Tag'
+	}
+ </p>
 <p>
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
