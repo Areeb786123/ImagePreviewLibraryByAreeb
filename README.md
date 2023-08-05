@@ -1,6 +1,7 @@
 # ImagePreviewLibraryByAreeb
+![Screenshot_20230805_151053](https://github.com/Areeb786123/ImagePreviewLibraryByAreeb/assets/56149022/02a030ac-6649-4de6-b0aa-d39c1ea6d993)
 
-![image](https://github.com/Areeb786123/ImagePreviewLibraryByAreeb/assets/56149022/b635511c-e9e5-446e-b4e4-bfedca2d867b)
+
 
 <h1>How to use it </h1>
 
