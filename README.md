@@ -1,5 +1,6 @@
 # ImagePreviewLibraryByAreeb
-![Screenshot_20230805_151053](https://github.com/Areeb786123/ImagePreviewLibraryByAreeb/assets/56149022/02a030ac-6649-4de6-b0aa-d39c1ea6d993)
+
+<img src="https://github.com/Areeb786123/ImagePreviewLibraryByAreeb/assets/56149022/02a030ac-6649-4de6-b0aa-d39c1ea6d993" width="300" alt="Screenshot">
 
 
 
